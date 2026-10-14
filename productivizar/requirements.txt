@@ -1,0 +1,9 @@
+# Dependencias de runtime (versiones fijadas para builds reproducibles)
+fastapi==0.143.0
+uvicorn[standard]==0.54.0
+python-multipart==0.0.32
+pydantic-settings==2.15.0
+onnxruntime==1.31.0
+opencv-python-headless==4.14.0.94
+numpy==2.5.4
+prometheus-client==0.26.0
